@@ -1,0 +1,13 @@
+python-dotenv
+line-bot-sdk
+flask
+numpy
+werkzeug>=0.15.4
+gspread
+oauth2client
+mechanize
+request
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+python-magic
